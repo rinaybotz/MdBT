@@ -1,0 +1,10 @@
+{
+  "name": "telegraf-bot",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "dependencies": {
+    "telegram": "^2.26.22",
+    "readline": "1.3.0"
+  }
+}
